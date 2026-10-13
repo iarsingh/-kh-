@@ -1,5 +1,12 @@
 # -kh-
 
+## Overview
+
+An empty repository that holds no source files yet, only Git metadata. The README is a placeholder until real content is added, and the repository has no description, so it does not yet have a stated purpose, tech stack or instructions to build or run.
+
+- **Built with:** Nothing yet; no code has been added.
+- **Scope:** Empty placeholder repository.
+
 <!-- project-guide:start -->
 ## Project guide
 
